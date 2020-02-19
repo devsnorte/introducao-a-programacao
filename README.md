@@ -1,4 +1,4 @@
-# Introdução a Programção 💻
+# Introdução a Programação 💻
 <img align="right" src="https://github.com/vuejs-norte/artworks/blob/master/png/logo-76x76.png?raw=true" width="70px;" />
 
 Este repositório tem como objetivo apresentar uma introdução de diferentes linguagens para programadores iniciantes.
@@ -18,6 +18,7 @@ Você pode criar um tutorial, basta fazer um fork do repositório, e seguir o pa
 - Go
 - HTML
 - Java
+- JavaScript
 - DotNet (.Net)
 - PHP
 - Python
